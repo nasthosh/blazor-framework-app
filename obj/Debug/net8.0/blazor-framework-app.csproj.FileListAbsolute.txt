@@ -27,3 +27,4 @@
 /Users/santi/Documents/Personal/nimbus/blazor-framework-app/obj/Debug/net8.0/blazor-framework-app.pdb
 /Users/santi/Documents/Personal/nimbus/blazor-framework-app/obj/Debug/net8.0/blazor-framework-app.genruntimeconfig.cache
 /Users/santi/Documents/Personal/nimbus/blazor-framework-app/obj/Debug/net8.0/ref/blazor-framework-app.dll
+/Users/santi/Documents/Personal/nimbus/blazor-framework-app/obj/Debug/net8.0/blazor-framework-app.sourcelink.json
